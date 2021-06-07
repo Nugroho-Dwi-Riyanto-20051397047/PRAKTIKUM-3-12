@@ -9,7 +9,7 @@ main ()
     char data[20][50],cari[20];
 	printf("NUGROHO DWI RIYANTO\n");
  printf("20051397047\n");
- printf("MI_1_2020\n");
+ printf("MI_A_2020\n");
    cout<<"\n\t\t *************************************** \n";
    cout<<"\t\t | \t\t\t\t       | \n";
    cout<<"\t\t | \t     Proses Pencarian \t       | \n";
