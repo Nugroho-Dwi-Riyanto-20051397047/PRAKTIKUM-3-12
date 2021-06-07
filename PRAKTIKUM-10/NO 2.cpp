@@ -7,9 +7,9 @@ main ()
 {
     int jd,no,kiri,kanan,center;
     char data[20][50],cari[20];
-	printf("RIZKI JANUAR IRMANSYAH\n");
- printf("20051397046\n");
- printf("MI_B_2020\n");
+	printf("NUGROHO DWI RIYANTO\n");
+ printf("20051397047\n");
+ printf("MI_1_2020\n");
    cout<<"\n\t\t *************************************** \n";
    cout<<"\t\t | \t\t\t\t       | \n";
    cout<<"\t\t | \t     Proses Pencarian \t       | \n";
