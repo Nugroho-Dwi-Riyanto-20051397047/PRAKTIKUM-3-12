@@ -20,9 +20,9 @@ int main()
 {
 int i;
 srand(0);
-printf("RIZKI JANUAR IRMANSYAH\n");
- printf("20051397046\n");
- printf("MI_B_2020\n");
+printf("NUGROHO DWI RIYANTO\n");
+ printf("20051397047\n");
+ printf("MI_A_2020\n");
 // Membangkitkan bilangan acak
 printf("DATA SEBELUM TERURUT");
 for(i=0; i<MAX; i++)
