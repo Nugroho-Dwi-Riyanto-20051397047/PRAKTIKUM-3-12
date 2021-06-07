@@ -69,8 +69,8 @@ int main (){
 	
 	do {
 	cout << endl;
-	cout<<"RIZKI JANUAR IRMANSYAH \n";
-	cout<<"20051397046 \n";
+	cout<<"NUGROHO DWI RIYANTO \n";
+	cout<<"20051397047 \n";
 		cout << "\t\t==========================================================================" << endl;
 		cout << "\t\t\t                          PILIHAN                      \t" << endl;
 		cout << "\t\t==========================================================================" << endl;
